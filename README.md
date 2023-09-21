@@ -1,52 +1,59 @@
-Mikrotik Template Login for [PHPMIXBILL](https://github.com/ibnux/phpmixbill)
-----
+# Mikrotik Template Login para [NetBillX](https://github.com/freedarwuin/NetBillX)
 
-**.:English:.**
+---
 
-This Template is for Mikrotik Login Hotspot, just put all File inside hotspot folder in Mikrotik, overwrite all. You need to have [PHPMIXBILL](https://github.com/ibnux/phpmixbill) installed somewhere.
+## .:Español:.
 
-You need to edit this file, find **TODO**, and follow instruction:
+Esta plantilla es para el inicio de sesión del Hotspot Mikrotik.  
+Solo coloca todos los archivos dentro de la carpeta `hotspot` en Mikrotik y sobrescribe todo.  
+Necesitas tener instalado [NetBillX](https://github.com/freedarwuin/NetBillX) en algún servidor.
 
- - login.html
- - status.html
- - logout.html
- - remove **errors.txt** rename **errors.en.txt** to **errors.txt**
+### Pasos para configurar:
 
- replace **background.jpg** file with your own background
+- Edita los siguientes archivos y busca **TODO** para seguir las instrucciones:
+    - `login.html`
+    - `status.html`
+    - `logout.html`
+- Elimina el archivo `errors.txt` y renombra `errors.en.txt` a `errors.txt`.
+- Reemplaza el archivo `background.jpg` con tu propio fondo.
+- Elimina la carpeta `remove`.
 
- Delete folder remove!
+---
 
+## .:Indonesia:.
 
-**.:Indonesia:.**
+Template ini untuk Login Hotspot Mikrotik.  
+Upload dan timpa semua file ke folder `hotspot`.  
+Pastikan anda juga telah memasang [NetBillX](https://github.com/freedarwuin/NetBillX) di suatu server.
 
-Template ini untuk Login Hotspot Mikrotik, upload dan timpa semua file ke folder hotspot, pastikan anda juga telah memasang [PHPMIXBILL](https://github.com/ibnux/phpmixbill) di suatu server.
+### Langkah konfigurasi:
 
-Sebelum digunakan edit dulu file dibawah, Cari **TODO** dan ikuti petunjuknya:
+- Edit file berikut dan cari **TODO** untuk mengikuti petunjuk:
+    - `login.html`
+    - `status.html`
+    - `logout.html`
+- Hapus `errors.txt`, ganti nama `errors.en.txt` menjadi `errors.txt`.
+- Ganti `background.jpg` dengan background Anda sendiri.
+- Hapus folder `remove`.
 
- - login.html
- - status.html
- - logout.html
- - hapus **errors.txt**, ganti nama **errors.en.txt** ke **errors.txt**
+---
 
- Ganti **background.jpg** dengan Background anda sendiri
+## ¡NO OLVIDES! / JANGAN LUPA!!!
 
- hapus folder remove!
+Agrega la IP o dominio de tu servidor NetBillX al walled garden del hotspot.
 
-DONT FORGET!! JANGAN LUPA!!!
-----
-Add your phpmixbill server IP or domain to walled garden hotspot
+Tambahkan alamat IP atau domain NetBillX server ke walled garden hotspot.
 
-Tambahkan alamat IP atau domain Phpmixbill server ke walled garden hotspot
+---
 
+## Explicación | Penjelasan
 
+![Static Pages](remove_me/info.png)
 
-Explanation | Penjelasan
-----
+---
 
-![MacDown logo](remove/info.png)
+## CRÉDITOS
 
-CREDITS
-----
-Masjid Agung Banten Wallpaper taken from [www.bantenwisata.com](http://www.bantenwisata.com/2015/09/masjid-agung-banten.html)
+Wallpaper de Masjid Agung Banten tomado de [www.bantenwisata.com](http://www.bantenwisata.com/2015/09/masjid-agung-banten.html)
 
-Template created using [Bootstrap v3.3.7](http://getbootstrap.com)
+Plantilla creada usando [Bootstrap v3.3.7](http://getbootstrap.com)
