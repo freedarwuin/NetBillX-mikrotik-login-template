@@ -24,8 +24,6 @@ Necesitas tener instalado [NetBillX](https://github.com/freedarwuin/NetBillX) en
 
 Agrega la IP o dominio de tu servidor NetBillX al walled garden del hotspot.
 
-Tambahkan alamat IP atau domain NetBillX server ke walled garden hotspot.
-
 ---
 
 ## Explicación 
