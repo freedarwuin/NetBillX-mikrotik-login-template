@@ -20,12 +20,6 @@ Necesitas tener instalado [NetBillX](https://github.com/freedarwuin/NetBillX) en
 
 ---
 
-## .:Indonesia:.
-
-Template ini untuk Login Hotspot Mikrotik.  
-Upload dan timpa semua file ke folder `hotspot`.  
-Pastikan anda juga telah memasang [NetBillX](https://github.com/freedarwuin/NetBillX) di suatu server.
-
 ### Langkah konfigurasi:
 
 - Edit file berikut dan cari **TODO** untuk mengikuti petunjuk:
