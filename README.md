@@ -20,19 +20,7 @@ Necesitas tener instalado [NetBillX](https://github.com/freedarwuin/NetBillX) en
 
 ---
 
-### Langkah konfigurasi:
-
-- Edit file berikut dan cari **TODO** untuk mengikuti petunjuk:
-    - `login.html`
-    - `status.html`
-    - `logout.html`
-- Hapus `errors.txt`, ganti nama `errors.en.txt` menjadi `errors.txt`.
-- Ganti `background.jpg` dengan background Anda sendiri.
-- Hapus folder `remove`.
-
----
-
-## ¡NO OLVIDES! / JANGAN LUPA!!!
+## ¡NO OLVIDES! 
 
 Agrega la IP o dominio de tu servidor NetBillX al walled garden del hotspot.
 
@@ -40,7 +28,7 @@ Tambahkan alamat IP atau domain NetBillX server ke walled garden hotspot.
 
 ---
 
-## Explicación | Penjelasan
+## Explicación 
 
 ![Static Pages](remove_me/info.png)
 
