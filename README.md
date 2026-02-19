@@ -16,7 +16,7 @@ Necesitas tener instalado [NetBillX](https://github.com/freedarwuin/NetBillX) en
     - `logout.html`
 - Elimina el archivo `errors.txt` y renombra `errors.en.txt` a `errors.txt`.
 - Reemplaza el archivo `background.jpg` con tu propio fondo.
-- Elimina la carpeta `remove`.
+- Elimina la carpeta `remove_me`.
 
 ---
 
